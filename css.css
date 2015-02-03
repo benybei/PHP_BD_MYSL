@@ -1,0 +1,67 @@
+form{
+             text-align: center;
+}
+.final{
+	color:blue;
+	font-size:large;
+}
+	
+p.erreur{
+    text-align: center;
+    color:red;
+     font-size:20px;
+}
+
+.valide{
+    text-align: center;
+    color:red;
+     font-size:20px;
+}
+	
+
+/* pour entete et pied de page les different style applique*/
+h1{
+	 
+	 text-align: center;
+	 color:blue;
+}
+h2{
+	
+	 color:red;
+          text-align: center;
+}
+
+
+
+
+
+h3{text-align:center;
+color:green;
+}
+#tab{
+	/*width:100%;*/
+	 margin:inherit;
+	/* border:thick black dotted;*/
+	 margin-left:15%;
+        
+       
+       
+	 	  	
+}
+td{
+     text-align: center;
+}
+.droite{
+	 text-align:right;
+	  	
+}
+.gauche{
+	text-align:left;
+	/*border:medium fuchsia ridge;*/
+}
+#mode{text-align:center;
+    color:blue;
+     font-size:20px;
+
+}
+ 
